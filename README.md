@@ -2,6 +2,9 @@
 
 A Password generator with ability to generate multiple types of passwords
 
+## Project Link
+[Click Here to see the Project](https://vikingwarior.github.io/PasswordGenerator/)
+
 ## Features
  - Ability to generate various levels of Passwords like **weak, normal, Strong, Very Strong and Funny**
  - Passwords can be copied from the UI with the click of button
